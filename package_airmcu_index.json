@@ -17,7 +17,7 @@
           "help": {
             "online": "https://github.com/Air-duino/Arduino-AirMCU"
           },
-          "url": "https://github.com/Air-duino/Arduino-AirMCU/releases/download/test/AirMCU-0.1.5.zip",
+          "url": "https://github.com/Air-duino/Arduino-AirMCU/releases/download/0.1.5/AirMCU-0.1.5.zip",
           "archiveFileName": "AirMCU-0.1.5.zip",
           "checksum": "SHA-256:C727988ECCC27B959B80013285F1325EF56B6C47107E62A90A7AF71A6E4370A4",
           "size": "3147386",
